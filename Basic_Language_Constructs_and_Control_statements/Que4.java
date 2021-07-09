@@ -6,7 +6,6 @@ of hours worked last week and their hourly rates. Your program should
 input this information for each employee, then determine and display 
 the employee’s gross pay. Use class Scanner to input the data.*/
 
-
 package com.company;
 import java.util.Scanner;
 public class Que4{
