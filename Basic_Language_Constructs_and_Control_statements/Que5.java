@@ -2,8 +2,11 @@
 then displays a hollow square of that size made of asterisks. Your program should work
 for squares of all side lengths between 1 and 20
  */
+
 package com.company;
+
 import java.util.Scanner;
+
 public class Que5 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
